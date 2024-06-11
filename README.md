@@ -6,11 +6,11 @@ For power you have a couple of different options.  You can power directly via an
 
 The case is a kickstand design to save on filament costs and printing time, but does have a 35mm tall top cover to better support the carts. There are also two different top designs, one that is mostly open from the cart slots to the board, and another that is fully shrouded, but uses almost double the filament.  I personally haven't printed the latter option yet.
 
-Schematic - https://djtersteegc.github.io/Tandy-Color-Computer-Multi-Pak/Tandy+Color+Computer+Multi-Pak+Schematic.pdf
+Schematic - https://djtersteegc.github.io/Tandy-Color-Computer-Multi-Pak/Tandy%20Color%20Computer%20Multi-Pak%20Schematic.pdf
 
 # BOM
 
-CSV - https://djtersteegc.github.io/Tandy-Color-Computer-Multi-Pak/Tandy+Color+Computer+Multi-Pak+BOM.csv
+CSV - https://djtersteegc.github.io/Tandy-Color-Computer-Multi-Pak/Tandy%20Color%20Computer%20Multi-Pak%20BOM.csv
 
 iBOM - https://djtersteegc.github.io/Tandy-Color-Computer-Multi-Pak/ibom.html
 

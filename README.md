@@ -26,6 +26,17 @@ I tend the buy most everything from China, either AliExpress of UTSource (for lo
 
 ![DesignSpark](docs/DesignSpark.png)
 
+| Part                    | Filament |
+| ----------------------- | -------- |
+| MPI Top.stl             | 75g      |
+| MPI Bottom.stl          | 62g      |
+| MPI Cart Top.stl        | 20g      |
+| MPI Foot.stl            | 12g      |
+| MPI Switch.stl          | 1g       |
+| MPI Top Full Shroud.stl | 137g     |
+
+
+
 # Final Assembly
 
 # Getting a Board to Build Your Own

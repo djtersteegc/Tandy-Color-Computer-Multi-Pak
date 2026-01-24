@@ -18,6 +18,14 @@ Google Sheet with some AliExpress links - https://docs.google.com/spreadsheets/d
 
 I tend the buy most everything from China, either AliExpress of UTSource (for logic). For power, first figure out how you want to power the board and then pick the correct optional parts.  I'm assuming everyone will install the barrel jack, either for direct 5V or to feed 7.5V into the VRM's.
 
+# Switch
+
+The original switches I ordered from AliExpress had a 5mm high handle that was 3mm thick. That same listing is now for a 4mm high handle model which is only 2mm thick. Looking at other listings, even the ones that still show the thicker handle appear to be sending out the shorter and thinner handled model based on review pictures posted.
+
+There are now two STL's for the switch depending on which model you get.  **MPI Switch.stl** is for the original taller/thicker one, and **MPI Switch Small Handle.stl** for the shorter/thinner one.
+
+![switch-differences.jpg](docs/switch-differences.jpg)
+
 # PCB Assembly
 
 ![MPI-PCB-Assembled.jpg](docs/MPI-PCB-Assembled.jpg)
@@ -38,6 +46,12 @@ I tend the buy most everything from China, either AliExpress of UTSource (for lo
 
 
 # Final Assembly
+
+First screw the foot/kickstand to the bottom of the case with four [M3x10mm](https://www.aliexpress.us/item/2251832782301811.html) button head or countersunk head screws.
+
+Then place the PCB, slide on the printed switch handle extender, place the cart top piece and then the larger top cover.  Flip over and assemble with eight M3x10mm to 14mm countersunk screws.
+
+![MPI-Assembled](docs/MPI-Assembled.jpg)
 
 # Getting a Board to Build Your Own
 

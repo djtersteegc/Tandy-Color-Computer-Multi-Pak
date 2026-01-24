@@ -30,6 +30,10 @@ There are now two STL's for the switch depending on which model you get.  **MPI 
 
 ![MPI-PCB-Assembled.jpg](docs/MPI-PCB-Assembled.jpg)
 
+# GAL Programming
+
+U8 is a standard GAL16V8.  The programming file is available in the [GAL](GAL) directory. This should be the [newer version](https://retrocomputing.stackexchange.com/questions/477/the-tandy-trs-80-multipack-interface-mpi) that is compatible with the Coco3, but I'm unable to verify since I only have 1's and 2's to test with currently.
+
 # 3D Printing the Case
 
 ![DesignSpark](docs/DesignSpark.png)
